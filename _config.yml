@@ -3,7 +3,7 @@ title: Tactile theme
 description: Tactile is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: 
+theme: jekyll-theme-midnight
 =======
 theme: jekyll-theme-midnight
 >>>>>>> 7da74c4ed6eac8c68873b08f70612fbf53132dd1
